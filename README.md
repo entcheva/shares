@@ -1,4 +1,4 @@
 # shares
 
-#learnin
-# closures, etc, line 146
+learnin
+closures, etc, line 146
